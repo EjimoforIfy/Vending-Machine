@@ -1,0 +1,11 @@
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.csproj.AssemblyReference.cache
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.Properties.Resources.resources
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.csproj.GenerateResource.cache
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.csproj.CoreCompileInputs.cache
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.Form1.resources
+C:\Users\eiini\Desktop\VendingMachine1\bin\Debug\VendingMachine1.exe.config
+C:\Users\eiini\Desktop\VendingMachine1\bin\Debug\VendingMachine1.exe
+C:\Users\eiini\Desktop\VendingMachine1\bin\Debug\VendingMachine1.pdb
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.exe
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.pdb
+C:\Users\eiini\Desktop\VendingMachine1\obj\Debug\VendingMachine1.exe.config
